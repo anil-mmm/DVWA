@@ -1,4 +1,4 @@
-config/config.inc.php
+/vendor/
 Dockerfile
 
 # Vim swap files
