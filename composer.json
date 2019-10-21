@@ -1,7 +1,7 @@
 {
   "require": {
     "php": "^7.3.5",
-    "ext-sqreen": "^1.16"
+    "ext-sqreen": "^1.18"
   },
   "require-dev": {
     "heroku/heroku-buildpack-php": "*"
@@ -9,7 +9,7 @@
   "config": {
     "platform": {
       "php": "7.3.5",
-      "ext-sqreen": "1.16.1"
+      "ext-sqreen": "1.18"
     }
   }
 }
