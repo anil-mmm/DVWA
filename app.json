@@ -9,11 +9,9 @@
         }
     },
     "addons": [
-        "sqreen",
         {
             "plan": "sqreen:developer"
         },
-        "cleardb",
         {
             "plan": "cleardb:ignite"
         }
