@@ -2,5 +2,10 @@
     "name": "DVWA",
     "description": "Damn Vulnerable Web Application",
     "repository": "https://github.com/sqreen/DVWA",
-    "stack": "heroku-18"
+    "stack": "heroku-18",
+    "env": {
+        "HEROKU_PHP_PLATFORM_REPOSITORIES": {
+            "value": "https://sqreen-heroku.s3.amazonaws.com/dist-heroku-18-stable/"
+        }
+    }
 }
