@@ -11,11 +11,11 @@
     "addons": [
         "sqreen",
         {
-            "plan": "developer"
+            "plan": "sqreen:developer"
         },
         "cleardb",
         {
-            "plan": "ignite"
+            "plan": "cleardb:ignite"
         }
     ]
 }
