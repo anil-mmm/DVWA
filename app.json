@@ -7,5 +7,15 @@
         "HEROKU_PHP_PLATFORM_REPOSITORIES": {
             "value": "https://sqreen-heroku.s3.amazonaws.com/dist-heroku-18-stable/"
         }
-    }
+    },
+    "addons": [
+        "sqreen",
+        {
+            "plan": "developer"
+        },
+        "cleardb",
+        {
+            "plan": "ignite"
+        }
+    ]
 }
