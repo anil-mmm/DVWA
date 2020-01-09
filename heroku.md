@@ -4,3 +4,6 @@ Configuration:
   * Add sqreen and cleardb addons
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sqreen/DVWA/tree/test-heroku-deploy)
