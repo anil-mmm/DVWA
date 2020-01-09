@@ -1,0 +1,6 @@
+{
+    "name": "DVWA",
+    "description": "Damn Vulnerable Web Application",
+    "repository": "https://github.com/sqreen/DVWA",
+    "stack": "heroku-18"
+}
