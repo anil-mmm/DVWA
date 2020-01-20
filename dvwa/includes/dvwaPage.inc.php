@@ -71,7 +71,10 @@ function dvwaPageStartup( $pActions ) {
 		}
 	}
 
-	sqreen\identify(['user' => dvwaCurrentUser()]);
+	$user = dvwaCurrentUser();
+	if( !empty( $user ) ) {
+		sqreen\identify(['username' => $user]);
+	}
 }
 
 
