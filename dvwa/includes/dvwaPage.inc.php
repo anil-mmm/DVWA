@@ -70,6 +70,8 @@ function dvwaPageStartup( $pActions ) {
 			dvwaPhpIdsTrap();
 		}
 	}
+
+	sqreen\identify(['user' => dvwaCurrentUser()]);
 }
 
 
