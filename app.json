@@ -1,7 +1,7 @@
 {
     "name": "DVWA",
     "description": "Damn Vulnerable Web Application",
-    "repository": "https://github.com/sqreen/DVWA",
+    "repository": "https://github.com/sqreen/DVWA/tree/test-php7.4",
     "stack": "heroku-18",
     "env": {
         "HEROKU_PHP_PLATFORM_REPOSITORIES": {
